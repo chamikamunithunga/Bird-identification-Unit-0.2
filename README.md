@@ -9,6 +9,9 @@ This is the User Interface for Upload the Image
 <img width="1428" alt="Screenshot 2025-03-03 at 9 15 18 PM" src="https://github.com/user-attachments/assets/6176e815-bc7a-4f0a-a2fa-812bdafc3130" />
 
 This is the Output (have some intergration for using Api to fetch more data with identified bird name with more depth of the bird profile)
+<img width="1420" alt="Screenshot 2025-03-03 at 9 15 54 PM" src="https://github.com/user-attachments/assets/14aff984-89b7-4739-a29f-ad627727d70f" />
+
+
 2025/03/03 last updated
 
 © 2025 chamikamunithunga. All rights reserved.
